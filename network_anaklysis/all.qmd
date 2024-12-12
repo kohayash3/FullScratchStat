@@ -1,0 +1,15 @@
+---
+title: "Network Analysis"
+date: 2024/12/12
+format:
+  html:
+    toc: true
+    code-fold: true
+    html-math-method: katex
+    css: styles.css
+---
+- べき分布
+形を確認する
+```{r}
+power_law_dis <- function()
+```
